@@ -31,7 +31,7 @@
         <lombok-version>1.16.8</lombok-version>
         <rest-assured-version>2.3.4</rest-assured-version>
         <flexjson-version>2.0</flexjson-version>
-        <httpclient-version>4.5.3</httpclient-version>
+        <httpclient-version>4.5.13</httpclient-version>
         <maven-version>3.3</maven-version>
         <java-version>1.8</java-version>
         <json-version>20160212</json-version>
